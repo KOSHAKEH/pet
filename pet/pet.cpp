@@ -60,6 +60,7 @@ int main()
     }
     else {
         cout << "There is no such animal";
-        return 0;
     }
+    
+    return 0;
 }
